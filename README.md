@@ -1,6 +1,6 @@
 # Assigments_and_Projects-Faizal_Shaikh
-Dump for all Projects and Assigments
-Contains the following courses
+Folder for all Projects and Assignments
+It contains the following courses
 
 CS F407 - AI
 BITS F463 - Cryptography
