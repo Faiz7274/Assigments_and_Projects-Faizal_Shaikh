@@ -3,9 +3,9 @@ Folder for all Projects and Assignments from my certifications and college cours
 
 It contains the following courses
 
-CS F407 - AI  
-BITS F463 - Cryptography  
-ECE F314 - EMFME
-BITS F464 - ML  
-CS F213 - OOPS  
-ReactJS Project
+BITS F463 - Cryptography \
+BITS F464 - ML  \
+CS F213 - OOPS \
+CS F407 - AI \
+ECE F314 - EMFME \
+ReactJS Project - MovieApp\
